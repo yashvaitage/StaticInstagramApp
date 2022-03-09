@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M6e-6s-e3m"; */
+"M6e-6s-e3m.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "nOc-G4-dCn"; */
+"nOc-G4-dCn.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nOc-G4-dCn"; */
+"nOc-G4-dCn.normalTitle" = "Button";
